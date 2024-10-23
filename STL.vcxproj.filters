@@ -28,4 +28,12 @@
       <Filter>lib</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="books.csv">
+      <Filter>data</Filter>
+    </None>
+    <None Include="readers.csv">
+      <Filter>data</Filter>
+    </None>
+  </ItemGroup>
 </Project>
